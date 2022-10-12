@@ -1,0 +1,111 @@
+{
+  "products": [
+    { 
+      "id": 1,
+      "image": "https://bb-scm-prod-pim.oss-ap-southeast-5.aliyuncs.com/products/0f3f0a0bc7e0bdfcc298cb43a6c40086/mapemall/01-NEW-BALANCE-FFLSDNEW0-NEWYT100TN-Navy.jpg?x-oss-process=image/resize,w_330,h_434,limit_0,m_pad/quality,Q_80/format,webp",
+      "title": "New Balance",
+      "description": "New Balance 100 Boy's Preschool And Gradeschool Sandals - Navy",
+      "price": 207000,
+      "rating": 4,
+      "discountLabel": "20%",
+      "salePrice": 166000
+    },
+    {
+      "id": 2,
+      "image": "https://bb-scm-prod-pim.oss-ap-southeast-5.aliyuncs.com/products/a3c7a434e2f208e338596430744e9334/titan/01-NEW-BALANCE-F34RUNEWA-NEWWARISPK4-Black.jpg?x-oss-process=image/resize,w_330,h_434,limit_0,m_pad/quality,Q_80/format,webp",
+      "title": "New Balance",
+      "description": "NEW BALANCE Fresh Foam Arishi v4 Women's Running Shoes- Black",
+      "price": 208000,
+      "rating": 5,
+      "discountLabel": "20%",
+      "salePrice": 169000
+    },
+    { 
+      "id": 3,
+      "image": "https://bb-scm-prod-pim.oss-ap-southeast-5.aliyuncs.com/products/57c7c001aabff85b25a5e3cc30bffa70/mapemall/01-NEW-BALANCE-FFSSDNEW0-New-Balance-SUF100-Mens-Sandals---Black-Black.jpg?x-oss-process=image/resize,w_330,h_434,limit_0,m_pad/quality,Q_80/format,webp",
+      "title": "New Balance",
+      "description": "New Balance 100 Men's Sandals - Black",
+      "price": 30800,
+      "rating": 5
+    },
+    {
+      "id": 4,
+      "image": "https://bb-scm-prod-pim.oss-ap-southeast-5.aliyuncs.com/products/5379012f1dfd17ad0f44975b8729fc25/titan/01-ADIDAS-FFSSEADI5-ADIGZ0656-Red.jpg?x-oss-process=image/resize,w_330,h_434,limit_0,m_pad/quality,Q_80/format,webp",
+      "title": "Adidas",
+      "description": "ADIDAS FORTARUN SPIDERMAN CF KIDS RUNNING SHOES - Red",
+      "price": 800000,
+      "rating": 5,
+      "discountLabel": "20%",
+      "salePrice": 740000
+    },
+    { 
+      "id": 5,
+      "image": "https://bb-scm-prod-pim.oss-ap-southeast-5.aliyuncs.com/products/eba8afb7fad44d0822ce4d10e635acb1/titan/01-ADIDAS-F34RUADI5-ADIGV7752-Black.jpg?x-oss-process=image/resize,w_330,h_434,limit_0,m_pad/quality,Q_80/format,webp",
+      "title": "Adidas",
+      "description": "ADIDAS RUNFALCON 2.0 Kids Running Shoes - Black",
+      "price": 300000,
+      "rating": 5,
+      "discountLabel": "20%",
+      "salePrice": 240000
+    },
+    {
+      "id": 6,
+      "image": "https://bb-scm-prod-pim.oss-ap-southeast-5.aliyuncs.com/products/e8d8b66e5906fcc0ecc1429cbedb1f7f/titan/01-ADIDAS-F34KBADI5-ADIGW3645-Grey.jpg?x-oss-process=image/resize,w_330,h_434,limit_0,m_pad/quality,Q_80/format,webp",
+      "title": "Adidas",
+      "description": "Adidas D.O.N. Issue #3 Men's Basketball Shoes - Grey",
+      "price": 500000,
+      "rating": 5
+    },
+    {
+      "id": 7,
+      "image": "https://bb-scm-prod-pim.oss-ap-southeast-5.aliyuncs.com/products/eba8afb7fad44d0822ce4d10e635acb1/titan/01-ADIDAS-F34RUADI5-ADIGV7752-Black.jpg?x-oss-process=image/resize,w_330,h_434,limit_0,m_pad/quality,Q_80/format,webp",
+      "title": "Adidas",
+      "description": "ADIDAS RUNFALCON 2.0 Kids Running Shoes - Black",
+      "price": 900000,
+      "rating": 5,
+      "discountLabel": "20%",
+      "salePrice": 720000
+    },
+    {
+      "id": 8,
+      "image": "https://bb-scm-prod-pim.oss-ap-southeast-5.aliyuncs.com/products/b78984b1349e02596d6743562a037d74/titan/01-ADIDAS-FR1U2ADI5-ADIGW8757-Red.jpg?x-oss-process=image/resize,w_330,h_434,limit_0,m_pad/quality,Q_80/format,webp",
+      "title": "Adidas",
+      "description": "Adidas Duramo 10 El Unisex Kids Running Shoes - Red",
+      "price": 450000,
+      "rating": 5
+    },
+    { 
+      "id": 9,
+      "image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/mxnq1h8ttfcomxjrbfjf/converse-chuck-taylor-all-star-low-top-shoes-NLRAok.png",
+      "title": "Converse",
+      "description": "Adidas Duramo 10 El Unisex Kids Running Shoes - Red",
+      "price": 450000,
+      "rating": 5,
+      "discountLabel": "20%"
+    },
+    {
+      "id": 10,
+      "image": "https://bb-scm-prod-pim.oss-ap-southeast-5.aliyuncs.com/products/b78984b1349e02596d6743562a037d74/titan/01-ADIDAS-FR1U2ADI5-ADIGW8757-Red.jpg?x-oss-process=image/resize,w_330,h_434,limit_0,m_pad/quality,Q_80/format,webp",
+      "title": "Adidas",
+      "description": "Adidas Duramo 10 El Unisex Kids Running Shoes - Red",
+      "price": 450000,
+      "rating": 5
+    },
+    {
+      "id": 11,
+      "image": "https://bb-scm-prod-pim.oss-ap-southeast-5.aliyuncs.com/products/b78984b1349e02596d6743562a037d74/titan/01-ADIDAS-FR1U2ADI5-ADIGW8757-Red.jpg?x-oss-process=image/resize,w_330,h_434,limit_0,m_pad/quality,Q_80/format,webp",
+      "title": "Adidas",
+      "description": "Adidas Duramo 10 El Unisex Kids Running Shoes - Red",
+      "price": 450000,
+      "rating": 5
+    },
+    {
+      "id": 12,
+      "image": "https://bb-scm-prod-pim.oss-ap-southeast-5.aliyuncs.com/products/b78984b1349e02596d6743562a037d74/titan/01-ADIDAS-FR1U2ADI5-ADIGW8757-Red.jpg?x-oss-process=image/resize,w_330,h_434,limit_0,m_pad/quality,Q_80/format,webp",
+      "title": "Adidas",
+      "description": "Adidas Duramo 10",
+      "price": 450000,
+      "rating": 4
+    }
+  ]
+}
