@@ -7,12 +7,12 @@
       "varian": "New Balance 100 Boy's Preschool And Gradeschool Sandals - Navy",
       "like": 5,
       "dislike": 0,
-      "price": 207000,
+      "price": "207,000",
       "rating": 4,
       "sold": 30,
       "type": "Men",
       "discountLabel": "20%",
-      "salePrice": 166000
+      "salePrice": "166,000"
     },
     {
       "id": 2,
@@ -21,12 +21,12 @@
       "varian": "NEW BALANCE Fresh Foam Arishi v4 Women's Running Shoes- Black",
       "like": 8,
       "dislike": 0,
-      "price": 208000,
+      "price": "208,000",
       "rating": 5,
       "sold": 35,
       "type": "Women",
       "discountLabel": "20%",
-      "salePrice": 169000
+      "salePrice": "169,000"
     },
     { 
       "id": 3,
@@ -35,7 +35,7 @@
       "varian": "New Balance 100 Men's Sandals - Black",
       "like": 9,
       "dislike": 0,
-      "price": 30800,
+      "price": "308,000",
       "sold": 38,
       "rating": 5,
       "type": "Men"
@@ -47,12 +47,12 @@
       "varian": "Nike Oneonta Men's Sandal - Black",
       "like": 20,
       "dislike": 2,
-      "price": 800000,
+      "price": "800,000",
       "rating": 5,
       "sold": 39,
       "type": "Men",
       "discountLabel": "20%",
-      "salePrice": 740000
+      "salePrice": "740,000"
     },
     { 
       "id": 5,
@@ -61,12 +61,12 @@
       "varian": "ADIDAS RUNFALCON 2.0 Kids Running Shoes - Black",
       "like": 19,
       "dislike": 1,
-      "price": 300000,
+      "price": "300,000",
       "rating": 5,
       "sold": 40,
       "type": "Kids",
       "discountLabel": "20%",
-      "salePrice": 240000
+      "salePrice": "240,000"
     },
     {
       "id": 6,
@@ -75,7 +75,7 @@
       "varian": "NEW BALANCE 327 Men Sneakers- Black",
       "like": 19,
       "dislike": 1,
-      "price": 500000,
+      "price": "500,000",
       "rating": 5,
       "sold": 47,
       "type": "Men"
@@ -87,12 +87,12 @@
       "varian": "ADIDAS RUNFALCON 2.0 Kids Running Shoes - Black",
       "like": 19,
       "dislike": 0,
-      "price": 900000,
+      "price": "900,000",
       "rating": 5,
       "sold": 49,
       "type": "Kids",
       "discountLabel": "20%",
-      "salePrice": 720000
+      "salePrice": "720,000"
     },
     {
       "id": 8,
@@ -102,18 +102,18 @@
       "like": 30,
       "dislike": 0,
       "type": "Kids",
-      "price": 450000,
+      "price": "450,000",
       "rating": 5,
       "sold": 47
     },
     { 
       "id": 9,
-      "image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/mxnq1h8ttfcomxjrbfjf/converse-chuck-taylor-all-star-low-top-shoes-NLRAok.png",
+      "image": "https://bb-scm-prod-pim.oss-ap-southeast-5.aliyuncs.com/products/63f27c92a742a851eacd4184acce2c04/titan/01-NIKE-FFSSBNIK5-NIKDA7995102-White.jpg?x-oss-process=image/resize,w_330,h_434,limit_0,m_pad/quality,Q_80/format,webp",
       "title": "Nike",
-      "varian": "Adidas Duramo 10 El Unisex Kids Running Shoes - Red",
+      "varian": "Nike Waffle One Men's Sneakers - White",
       "like": 10,
       "dislike": 0,
-      "price": 450000,
+      "price": "450,000",
       "rating": 5,
       "sold": 48,
       "type": "Kids",
@@ -126,7 +126,7 @@
       "varian": "Nike Ace Summerlite Womens Golf Shoes (Wide) - White",
       "like": 22,
       "dislike": 0,
-      "price": 450000,
+      "price": "550,000",
       "rating": 5,
       "sold": 50,
       "type": "Women"
@@ -138,7 +138,7 @@
       "varian": "Nike Oneonta Women's Sandal - Grey",
       "like": 19,
       "dislike": 0,
-      "price": 450000,
+      "price": "450,000",
       "rating": 5,
       "sold": 30,
       "type": "Women"
@@ -150,7 +150,7 @@
       "varian": "ADIDAS ADIZERO UBERSONIC 4 WOMEN'S TENNIS SHOES - White",
       "like": 10,
       "dislike": 0,
-      "price": 450000,
+      "price": "750,000",
       "rating": 4,
       "sold": 49,
       "type": "Women"
