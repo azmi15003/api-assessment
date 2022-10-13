@@ -33,12 +33,12 @@
     },
     {
       "id": 4,
-      "image": "https://bb-scm-prod-pim.oss-ap-southeast-5.aliyuncs.com/products/5379012f1dfd17ad0f44975b8729fc25/titan/01-ADIDAS-FFSSEADI5-ADIGZ0656-Red.jpg?x-oss-process=image/resize,w_330,h_434,limit_0,m_pad/quality,Q_80/format,webp",
-      "title": "Adidas",
-      "varian": "ADIDAS FORTARUN SPIDERMAN CF KIDS RUNNING SHOES - Red",
+      "image": "https://bb-scm-prod-pim.oss-ap-southeast-5.aliyuncs.com/products/970531fcfa46ce4034460f211ea8a58f/titan/01-NIKE-FFSSBNIK5-NIKDJ6603001-Black.jpg?x-oss-process=image/resize,w_330,h_434,limit_0,m_pad/quality,Q_80/format,webp",
+      "title": "Nike",
+      "varian": "Nike Oneonta Men's Sandal - Black",
       "price": 800000,
       "rating": 5,
-      "type": "Kids",
+      "type": "Men",
       "discountLabel": "20%",
       "salePrice": 740000
     },
@@ -49,15 +49,15 @@
       "varian": "ADIDAS RUNFALCON 2.0 Kids Running Shoes - Black",
       "price": 300000,
       "rating": 5,
-      "type": "Men",
+      "type": "Kids",
       "discountLabel": "20%",
       "salePrice": 240000
     },
     {
       "id": 6,
-      "image": "https://bb-scm-prod-pim.oss-ap-southeast-5.aliyuncs.com/products/e8d8b66e5906fcc0ecc1429cbedb1f7f/titan/01-ADIDAS-F34KBADI5-ADIGW3645-Grey.jpg?x-oss-process=image/resize,w_330,h_434,limit_0,m_pad/quality,Q_80/format,webp",
-      "title": "Adidas",
-      "varian": "Adidas D.O.N. Issue #3 Men's Basketball Shoes - Grey",
+      "image": "https://bb-scm-prod-pim.oss-ap-southeast-5.aliyuncs.com/products/c0c7a4311fb3079abc0ceef0c22794c2/titan/01-NEW-BALANCE-FFSSBNEWA-NEWMS327STC-Black.jpg?x-oss-process=image/resize,w_330,h_434,limit_0,m_pad/quality,Q_80/format,webp",
+      "title": "New Balance",
+      "varian": "NEW BALANCE 327 Men Sneakers- Black",
       "price": 500000,
       "rating": 5,
       "type": "Men"
@@ -85,7 +85,7 @@
     { 
       "id": 9,
       "image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/mxnq1h8ttfcomxjrbfjf/converse-chuck-taylor-all-star-low-top-shoes-NLRAok.png",
-      "title": "Converse",
+      "title": "Nike",
       "varian": "Adidas Duramo 10 El Unisex Kids Running Shoes - Red",
       "price": 450000,
       "rating": 5,
@@ -103,9 +103,9 @@
     },
     {
       "id": 11,
-      "image": "https://bb-scm-prod-pim.oss-ap-southeast-5.aliyuncs.com/products/a0ea129b3a407b08cb7ccb32f4efdf77/titan/01-ADIDAS-F34TEADI5-ADIGW2963-Blue.jpg?x-oss-process=image/resize,w_330,h_434,limit_0,m_pad/quality,Q_80/format,webp",
-      "title": "Adidas",
-      "varian": "ADIDAS BARRICADE WOMEN'S TENNIS SHOES - Blue",
+      "image": "https://bb-scm-prod-pim.oss-ap-southeast-5.aliyuncs.com/products/a0a9b794624bbf52211ac3f723fda1ba/titan/01-NIKE-FFSSBNIK5-NIKDJ6601003-Grey.jpg?x-oss-process=image/resize,w_330,h_434,limit_0,m_pad/quality,Q_80/format,webp",
+      "title": "Nike",
+      "varian": "Nike Oneonta Women's Sandal - Grey",
       "price": 450000,
       "rating": 5,
       "type": "Women"
