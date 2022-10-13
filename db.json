@@ -117,7 +117,8 @@
       "rating": 5,
       "sold": 48,
       "type": "Kids",
-      "discountLabel": "20%"
+      "discountLabel": "20%",
+      "salePrice": "360,000"
     },
     {
       "id": 10,
