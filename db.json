@@ -3,6 +3,12 @@
     { 
       "id": 1,
       "image": "https://bb-scm-prod-pim.oss-ap-southeast-5.aliyuncs.com/products/0f3f0a0bc7e0bdfcc298cb43a6c40086/mapemall/01-NEW-BALANCE-FFLSDNEW0-NEWYT100TN-Navy.jpg?x-oss-process=image/resize,w_330,h_434,limit_0,m_pad/quality,Q_80/format,webp",
+      "listImage": [
+        "https://bb-scm-prod-pim.oss-ap-southeast-5.aliyuncs.com/products/0f3f0a0bc7e0bdfcc298cb43a6c40086/mapemall/02-NEW-BALANCE-FFLSDNEW0-NEWYT100TN-Navy.jpg?x-oss-process=image/resize,w_128/format,webp",
+        "https://bb-scm-prod-pim.oss-ap-southeast-5.aliyuncs.com/products/0f3f0a0bc7e0bdfcc298cb43a6c40086/mapemall/03-NEW-BALANCE-FFLSDNEW0-NEWYT100TN-Navy.jpg?x-oss-process=image/resize,w_128/format,webp",
+        "https://bb-scm-prod-pim.oss-ap-southeast-5.aliyuncs.com/products/0f3f0a0bc7e0bdfcc298cb43a6c40086/mapemall/04-NEW-BALANCE-FFLSDNEW0-NEWYT100TN-Navy.jpg?x-oss-process=image/resize,w_128/format,webp"
+
+      ],
       "title": "New Balance",
       "varian": "New Balance 100 Boy's Preschool And Gradeschool Sandals - Navy",
       "like": 5,
