@@ -14,7 +14,7 @@
       "rating": 4,
       "sold": 30,
       "type": "Men",
-      "isWishList": true,
+      "isWishList": false,
       "discountLabel": "20%",
       "salePrice": "166,000"
     },
